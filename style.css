@@ -1,0 +1,19 @@
+h1{
+margin-left: 650px;
+}
+.images{
+    display:flex;
+    justify-content: space-between;
+}
+.images img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+body{
+    background-color: gold;
+}
+.links a{
+    padding: 50px;
+    display: flex;
+    
+}
